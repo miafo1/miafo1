@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miafo1
+- 👋 Hi, I’m cheussopkeng miafo arnauld 
 - 👀 I’m interested in creating IT solutions.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on AI.
